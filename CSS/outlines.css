@@ -61,6 +61,12 @@ h1 {
   border: 2px solid #ff994f;
 }
 
+h2 {
+  font-size: 50px;
+  background-color: #ffffff;
+  border: 2px solid #ff994f;
+}
+
 h1::before {
   content: "h1";
   color: #ff994f;
@@ -131,4 +137,12 @@ aside::before {
 
 nav::before {
   content: "nav";
+}
+
+.mydiv {
+  color: #ff4400;
+}
+.myspan {
+  padding: 5px 10px;
+  background-color: #ffd0bf;
 }
