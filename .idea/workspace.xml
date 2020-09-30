@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba91d224-1fe5-47f9-824f-54f6f9eab27c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/outlines.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/outlines.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OneDrive - ITMO UNIVERSITY/семестр 5/Web программирование/Lab4" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - ITMO UNIVERSITY/семестр 5/Web программирование/Lab3" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +65,8 @@
       <updated>1601125358510</updated>
       <workItem from="1601125359742" duration="324000" />
       <workItem from="1601150175304" duration="5183000" />
-      <workItem from="1601363444645" duration="18390000" />
+      <workItem from="1601363444645" duration="19104000" />
+      <workItem from="1601478820610" duration="1423000" />
     </task>
     <servers />
   </component>
@@ -81,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2180" y="278" key="FileChooserDialogImpl" timestamp="1601398751984">

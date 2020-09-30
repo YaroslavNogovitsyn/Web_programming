@@ -148,21 +148,31 @@ nav::before {
 }
 
 .button {
-  background-color: #597da3;
-  border: none;
-  color: white;
-  padding: 20px 34px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 20px;
-  margin: 4px 2px;
-  cursor: pointer;
+    background-color: #597da3;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button telegram {
+    background-color: #0088cc;
+}
+
+.button whatsapp {
+    background-color: #43d854;
 }
 
 
-
-
-
+.alert {
+    /* свойства для рамок, отступов и так далее*/
+    background-color: lightgrey;
+}
+.alert-error { background-color: red; }
 
 
