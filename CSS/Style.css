@@ -1,0 +1,32 @@
+
+.mydiv {
+    color: #ff4400;
+}
+.myspan {
+    padding: 5px 10px;
+    background-color: #ffd0bf;
+}
+
+.button {
+    background-color: #597da3;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: center;
+}
+
+.button telegram {
+    background-color: #0088cc;
+}
+
+.button whatsapp {
+    background-color: #43d854;
+}
+
+
